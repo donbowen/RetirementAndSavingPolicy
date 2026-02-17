@@ -1,0 +1,62 @@
+
+==============================================================================
+SUMMARY OF FINDINGS
+Based solely on 1945-2024 U.S. historical data, real inflation-adjusted returns
+==============================================================================
+
+1. DISPERSION IN RETIREMENT OUTCOMES UNDER PURE EQUITIES
+
+   Across 35 complete cohorts (start years 1945-1979), the best
+   equity outcome was $604 (cohort starting 1954,
+   retiring 2000) and the worst was $201
+   (cohort starting 1963, retiring 2009),
+   a 3.0x difference. The median outcome was $367. All
+   figures are in real terms relative to the first contribution dollar.
+
+   The last decade of the working life is the dominant driver of this
+   dispersion. The last-10-year average real equity return explains
+   61.0% of the cross-cohort variation in terminal wealth
+   (R2=0.610), compared with only 8.3% (R2=0.083)
+   for the first-10-year average. This asymmetry reflects compounding:
+   large late-career balances are far more exposed to return variation
+   than small early-career balances.
+
+2. DOES THE GLIDE PATH REDUCE DISPERSION? AT WHAT COST?
+
+   Under the glide path (equity declines from 90% at age 22 to 20% at
+   age 68), the best-to-worst ratio shrinks to 1.6x. The glide path
+   does reduce dispersion relative to pure equities.
+   The median glide path outcome ($224) is below
+   the median equity outcome ($367). In most cohorts the pure equity
+   strategy outperforms; the glide path effectively functions as insurance,
+   reducing the worst outcomes at the cost of the best and median outcomes.
+   The equity-to-glide-path ratio varies sharply across cohorts, indicating
+   that the cost of this insurance depends heavily on birth year.
+
+3. HOW RELIABLE ARE BONDS AS A "SAFE" ASSET IN REAL TERMS?
+
+   10-year Treasury bonds delivered negative real returns in 40 of
+   the 80 sample years (1945-2024). The worst single-year real bond
+   return was -23.92% in 2022. In 2022, both the S&P 500
+   (real return -24.11%) and 10-year Treasuries (real return
+   -23.92%) delivered simultaneous large negative real returns,
+   invalidating the conventional assumption that bonds provide a safe
+   haven. The rolling 10-year stock-bond correlation was negative in
+   29 and positive in 42 of 71 windows;
+   the diversification benefit of bonds is regime-dependent and not
+   reliably available when most needed.
+
+4. THE ROLE OF LUCK (BIRTH YEAR) IN RETIREMENT OUTCOMES
+
+   Identical savings behavior (same contribution schedule, same strategy)
+   produces terminal wealth that varies by 3.0x under pure equities
+   and 1.6x under the glide path across cohorts. This variation
+   is determined entirely by the accident of birth year, which fixes
+   which historical return sequence a worker experiences. A worker who
+   happened to retire into a bull market accumulated many multiples of
+   what an otherwise identical worker retiring into a bear market
+   accumulated. The glide path moderates but does not eliminate this
+   luck-driven dispersion. No savings discipline or contribution level
+   can offset a sufficiently adverse sequence of late-career returns.
+
+==============================================================================
