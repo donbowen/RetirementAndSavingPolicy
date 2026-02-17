@@ -17,3 +17,21 @@ Show me:
 - Some analysis of how bonds performed as a "safe" asset, especially during periods like the 1970s and 2022
 
 Write the code in Python and show all results.
+
+## Implementation
+
+This repository includes `run_analysis.py`, a dependency-free Python script that performs the full analysis when the Damodaran CSV is available locally at `data/histretSP.csv`.
+
+Run:
+
+```bash
+python run_analysis.py
+```
+
+Generated outputs:
+
+- `outputs/cohort_terminal_wealth.csv`
+- `outputs/terminal_wealth_comparison.svg`
+- `outputs/report.md`
+
+If the data file is missing, the script exits with an explicit error telling you where to place it.
