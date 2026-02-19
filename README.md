@@ -1,4 +1,5 @@
 # The effect of luck and timing on savings, or: How I learned to turn off the default target date option in my 401k
+## And: Claude Code Demo 
 
 This repo was designed to show students how to replicate the analysis in [a Twitter post](https://x.com/jesusferna7026/status/2023742455204520249?s=12) by Jesús Fernández-Villaverde.
 
