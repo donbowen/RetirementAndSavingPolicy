@@ -1,7 +1,7 @@
 # The effect of luck and timing on savings, or: How I learned to turn off the default target date option in my 401k
 ## And: Claude Code Demo 
 
-This repo was designed to show students how to replicate the analysis in [a Twitter post](https://x.com/jesusferna7026/status/2023742455204520249?s=12) by Jesús Fernández-Villaverde.
+This repo was designed to show students how to replicate the analysis in [a post](https://x.com/jesusferna7026/status/2023742455204520249?s=12) by Jesús Fernández-Villaverde.
 
 1. Go to the [claude-long-prompt](https://github.com/donbowen/RetirementAndSavingPolicy/tree/claude-long-prompt) branch to see Claude 4.5 Sonnet's (an "old", "midle" model) successful replication.
 2. The [history](https://github.com/donbowen/RetirementAndSavingPolicy/commits/claude-long-prompt/) of that branch shows exactly the steps I followed:
@@ -13,7 +13,10 @@ This repo was designed to show students how to replicate the analysis in [a Twit
    6. Wait. I wrote [comments as it was going](https://github.com/donbowen/RetirementAndSavingPolicy/blob/claude-long-prompt/prompt_log.md) which included "yuck" and "dumbass" and "Well, Damn"
    7. Done.
 
-Lessons for students:
+## Lessons 
 1. In 34/35 years, you would have been better off with 100% of your retirement in equities rather than a "target-date" fund that slowly increases bond exposure:
    ![](https://github.com/donbowen/RetirementAndSavingPolicy/blob/claude-long-prompt/chart1_terminal_wealth.png?raw=true)
-2. Refine your prompt for Claude Code/Codex on Claude.ai or Chatgpt.com. The more details, the better, and ask for checkpoints and modularity. The other branch in this folder shows the result of a worse prompt. It generated worse code. 
+1. For more lessons on the finance/econ angle, see [Jesus's original post](https://x.com/jesusferna7026/status/2023742455204520249?s=12)
+2. Prompts for Claude Code and Codex matter. 
+   1. Refine your prompt for Claude Code/Codex on Claude.ai or Chatgpt.com. The more details, the better, and ask for checkpoints and modularity.
+   2. The other branch in this folder shows the result of [a shorter/worse prompt](https://github.com/donbowen/RetirementAndSavingPolicy/tree/short_prompt_codex). Codex 5.3 spun its wheels quite a bit on even getting the file and I stopped it after it ask for permissions to try a 4th thing to get the data. So the output was: nothing. 
