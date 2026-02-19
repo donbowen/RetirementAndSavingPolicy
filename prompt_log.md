@@ -1,6 +1,6 @@
 ## Planning phase on claude.ai
 
-https://claude.ai/chat/e000f432-d5e4-45fb-9729-8d853ebc027f
+[Prompt Design Prompt/Chat](https://claude.ai/share/81498b7e-7d82-4c6d-b519-3689ae752225)
 
 Key bit: "Design a prompt I can give to an LLM, to replicate this analysis. Use all the best practices about guidance on checkpoints and verification, and breaking the problem into pieces. Include other best practices as well. Don’t include in the prompt the conclusion the author arrives at."
 
