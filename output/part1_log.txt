@@ -1,0 +1,21 @@
+N years: 80 80 80 80
+
+=== inflation definition: dec ===
+GM real S&P : 7.5329%
+GM real bond: 1.0710%
+Worst S&P  : 2008 -36.61%
+Worst bond : 2022 -22.81%
+2008 S&P   : -36.61%   2022 S&P: -23.01%   2022 bond: -22.81%
+
+=== inflation definition: avg ===
+GM real S&P : 7.5253%
+GM real bond: 1.0638%
+Worst S&P  : 2008 -38.90%
+Worst bond : 2022 -23.92%
+2008 S&P   : -38.90%   2022 S&P: -24.11%   2022 bond: -23.92%
+
+Nominal GM S&P 11.4681%, bond 4.7697%
+      sp500_nom  tbond_nom  infl_dec  infl_avg
+year                                          
+2008    -0.3655     0.2010  0.000914  0.038391
+2022    -0.1804    -0.1783  0.064544  0.080028
